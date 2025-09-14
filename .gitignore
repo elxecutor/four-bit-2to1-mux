@@ -1,0 +1,37 @@
+# Quartus Prime generated files
+*.qws
+*.qdf
+*.qsf.bak
+*.qpf.bak
+*.bak
+
+# Database files
+db/
+incremental_db/
+
+# Output files
+output_files/
+
+# Simulation files
+simulation/questa/
+*.vo
+*.sft
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*~
